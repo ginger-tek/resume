@@ -13,7 +13,7 @@ jobs:
       - name: Convert resume.md
         run: |-
           npm i -g md-to-pdf
-          md-to-pdf resume.md --pdf-options '{"format":"letter","margin":"10mm 20mm"}'
+          md-to-pdf resume.md --pdf-options '{"format":"letter","margin":"10mm 20mm"}' --css 'body { font-family: Monospace; }'
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
