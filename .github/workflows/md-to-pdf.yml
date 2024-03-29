@@ -14,3 +14,7 @@ jobs:
         run: |-
           npm i -g md-to-pdf
           md-to-pdf resume.md --pdf-options '{"format":"letter","margin":"10mm 20mm"}'
+
+      - uses: actions/upload-artifact@v1
+        with:
+          name: target
