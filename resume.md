@@ -6,7 +6,7 @@
 - Cell: [757-418-2956](tel:757-418-2956)
 
 ### QUALIFICATIONS
-Software automation engineer and full-stack web developer, with almolst a decade of professional	experience in production service support and software development. Expertise in designing intuitive, web-based applications, and developing software automation solutions. Created new and supported existing applications in both small business and enterprise	production environments.
+Software automation engineer and full-stack web developer, with almolst a decade of professional	experience in production service support and software development. Expertise in designing intuitive, web-based applications, and developing software automation solutions. Created new and supported existing applications in both small business and enterprise	production environments. Works well in a team and lead development efforts, as well as work individually to complete projects and goals.
 
 ### SKILLS & TOOLS
 - Extensive experience in modern HTML5/CSS3/ES6 programming, PowerShell Automation, Vue 3, Node/Express, and PHP 8+.
