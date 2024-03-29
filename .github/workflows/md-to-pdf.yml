@@ -3,6 +3,8 @@ name: Markdown to PDF
 on:
   push:
     branches: [ "main" ]
+    paths:
+      - resume.md
 
 jobs:
   converttopdf:
