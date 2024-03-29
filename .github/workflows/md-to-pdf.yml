@@ -27,4 +27,4 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm i md-to-pdf
-    - run: md-to-pdf --pdf-options '{ "format": "Letter", "margin": "20mm" }' ./resume.md
+    - run: md-to-pdf --pdf-options '{"format":"Letter","margin":"20mm"}' ./resume.md
