@@ -37,7 +37,7 @@ Software automation engineer and full-stack web developer, with almolst a decade
 
 ### EDUCATION
 - **REGENT UNIVERSITY** *VIRGINIA BEACH, VA*\
-  Graduated 2016 with B.S. Information Systems
+  Graduated with B.S. Information Systems
   
 ### WORK
 **AUTOMATION**
