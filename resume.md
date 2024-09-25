@@ -40,13 +40,14 @@ Software automation engineer and full-stack web developer, with almolst a decade
   Graduated with B.S. Information Systems
   
 ### WORK
-**AUTOMATION**
+- Engineered job processing system and web portal for processing sales team orders
+- Created UI component library for use with Vue and Pico CSS
+- Created PHP routing library for use in web apps and API's
+- Created small, zero-dependency, flat-file PHP CMS
 - Developed market access user/role management app for sales team
 - Automated file transfers and processing for digital and mail-in money transactions
 - Created data hygiene scripts and utilities for interactive data processing
 - Implemented API integrations between Jira Cloud and on-prem systems monitoring services
-
-**WEB APPS**
 - Self-hosted Reddit & Twitter clones
 - Simple book-keeping software for self-employed contractors
 - Audio file compression web portal, leveraging ffmpeg
