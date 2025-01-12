@@ -1,9 +1,9 @@
 # JEREMY MOORMANN
 ## Senior Software Engineer & Web Developer
-Email: [jeremy.paul.moormann@gmail.com](mailto:jeremy.paul.moormann@gmail.com) | Cell: (757) 418-2956
+Email: [moormann.jeremy.tech@gmail.com](mailto:moormann.jeremy.tech@gmail.com) | Cell: (757) 418-2956
 
 ### QUALIFICATIONS
-Software automation engineer and full-stack web developer, with almost a decade of professional	experience in production service support and software development. Expertise in designing intuitive, web-based applications, and developing software automation solutions. Created new and supported existing applications in both small business and enterprise	production environments. Works well in a team and lead development efforts, as well as work individually to complete projects and goals.
+Senior software automation engineer and full-stack web developer, with a decade of professional	experience in production service support and software development. Expertise in designing intuitive, web-based applications, and developing software automation solutions. Created new and supported existing applications in both small business and enterprise	production environments. Works well in a team and lead development efforts, as well as work individually to complete projects and goals.
 
 ### SKILLS & TOOLS
 - Extensive experience in modern HTML5/CSS3/ES6 programming, PowerShell Automation, Vue 3, Node/Express, and PHP 8+.
@@ -13,7 +13,7 @@ Software automation engineer and full-stack web developer, with almost a decade 
 - Certified in Azure Fundamentals (AZ-900)
 
 ### EXPERIENCE
-- **SENIOR SOFTWARE ENGINEER** *SINCLAIR, INC. - 2024-PRESENT*\
+- **SENIOR SOFTWARE ENGINEER** *SINCLAIR, INC. - 2023-Present *\
   Tasked with leading efforts on software management within Azure DevOps and Azure Portal, including developing automated deployment pipelines and IaC orchestrations for new and existing enterprise applications. 
 
 - **PRODUCTION SUPPORT SOFTWARE ENGINEER** *SINCLAIR, INC. - 2022-2023*\
