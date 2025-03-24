@@ -8,7 +8,7 @@ Senior software automation engineer and full-stack web developer, with a decade 
 ### SKILLS | TOOLS | CERTIFICATIONS
 - Extensive experience in modern HTML5/CSS3/ES6 programming, PowerShell Automation, Vue 3, Node/Express, and PHP 8+.
 - Experience in both MPA and SPA web applications, including PHP/Laravel, C#/.NET/WPF, and ASP.NET Core.
-- Experience in both Windows and Linux environments, as well as moderate experience in macOS environments.
+- Experience in both Windows Server and Linux container cloud environments, as well as moderate experience in macOS environments.
 - Proficient in Azure DevOps, Azure Portal, GitHub, VS Code, Visual Studio Professional.
 - Certified in Azure Fundamentals (AZ-900)
 
