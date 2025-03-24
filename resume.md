@@ -14,7 +14,7 @@ Senior software automation engineer and full-stack web developer, with a decade 
 
 ### EXPERIENCE
 - **SENIOR SOFTWARE ENGINEER** *SINCLAIR, INC. - 2023-Present *\
-  Tasked with leading efforts on software management within Azure DevOps and Azure Portal, including developing automated deployment pipelines and IaC orchestrations for new and existing enterprise applications. 
+  Tasked with leading efforts on software support and enterprise utilities within Azure DevOps and Azure Portal, developing automated deployment pipelines and IaC orchestrations for new and existing enterprise applications, and designing and developing internal support utility tools and web apps.
 
 - **PRODUCTION SUPPORT SOFTWARE ENGINEER** *SINCLAIR, INC. - 2022-2023*\
   Provided support for and helped manage the code-bases of new and existing enterprise applications.
