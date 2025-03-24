@@ -5,7 +5,7 @@ Email: [moormann.jeremy.tech@gmail.com](mailto:moormann.jeremy.tech@gmail.com) |
 ### QUALIFICATIONS
 Senior software automation engineer and full-stack web developer, with a decade of professional	experience in production service support and software development. Expertise in designing intuitive, web-based applications, and developing software automation solutions. Created new and supported existing applications in both small business and enterprise	production environments. Works well in a team and lead development efforts, as well as work individually to complete projects and goals.
 
-### SKILLS & TOOLS
+### SKILLS | TOOLS | CERTIFICATIONS
 - Extensive experience in modern HTML5/CSS3/ES6 programming, PowerShell Automation, Vue 3, Node/Express, and PHP 8+.
 - Experience in both MPA and SPA web applications, including PHP/Laravel, C#/.NET/WPF, and ASP.NET Core.
 - Experience in both Windows and Linux environments, as well as moderate experience in macOS environments.
