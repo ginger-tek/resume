@@ -14,10 +14,10 @@ Senior software automation engineer and full-stack web developer, with a decade 
 
 ### EXPERIENCE
 - **SENIOR SOFTWARE ENGINEER** *SINCLAIR, INC. - 2023-Present*\
-  Tasked with leading efforts on software support and enterprise utilities within Azure DevOps and Azure Portal, developing automated deployment pipelines and IaC orchestrations for new and existing enterprise applications, and designing and developing internal support utility tools and web apps.
+  Leading efforts on enterprise app problem analysis, automated deployment pipeline developement, creating IaC orchestrations, and creating various internal support scripts and web apps for data fixes.
 
 - **PRODUCTION SUPPORT SOFTWARE ENGINEER** *SINCLAIR, INC. - 2022-2023*\
-  Provided support for and helped manage the code-bases of new and existing enterprise applications.
+  Provided support for new and existing enterprise apps; lead efforts in automating Entra/ServiceNow provisioning.
 
 - **AUTOMATION ENGINEER** *CHRISTIAN BROADCASTING NETWORK - 2018-2022*\
   Developed workflow solutions and programming to automate various tasks, from data hygiene to service monitoring, as well as inter-departmental web-based service portals. Maintained existing and new projects, and collaborated with other team members and departments to produce solutions that helped the organization reach its business and mission goals.
