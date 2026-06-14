@@ -14,13 +14,13 @@ Senior software automation engineer and full-stack web developer, with a decade 
 
 ### EXPERIENCE
 - **SENIOR SOFTWARE ENGINEER** *SINCLAIR, INC. - 2023-Present*\
-  Leading efforts on enterprise app problem analysis, automated deployment pipeline developement, creating IaC orchestrations, and creating various internal support scripts and web apps for data fixes.
+  Leading efforts on enterprise app problem analysis, automated deployment pipeline developement, and IaC orchestrations. Created consolidated status dashboard app for entperise services/vendors. Developed and designed job processing system and web portal for processing sales team orders. Upgraded deprecated .NET Core web apps to newer .NET versions. Created data hygiene scripts and utilities for interactive data processing.
 
 - **PRODUCTION SUPPORT SOFTWARE ENGINEER** *SINCLAIR, INC. - 2022-2023*\
-  Provided support for new and existing enterprise apps; lead efforts in automating Entra/ServiceNow provisioning.
+  Provided support for new and existing enterprise apps; lead efforts in automating Entra/ServiceNow provisioning. Developed market access user/role management app for sales team. Created multiple internal scripts for data fixes.
 
 - **AUTOMATION ENGINEER** *CHRISTIAN BROADCASTING NETWORK - 2018-2022*\
-  Developed workflow solutions and programming to automate various tasks, from data hygiene to service monitoring, as well as inter-departmental web-based service portals. Maintained existing and new projects, and collaborated with other team members and departments to produce solutions that helped the organization reach its business and mission goals.
+  Developed workflow solutions and programming to automate data hygiene and service monitoring. Created inter-departmental web-based service portals. Implemented API integrations between Jira Cloud and on-prem systems monitoring services. Developed and designed an audio file compression web portal for use with call center systems. Engineered, designed, and developed human resource management solution to help reduce overworking developers.
 
   Awarded **Employee of the Month** for building and implementing an automation solution to help process mail-in money transactions.
 
@@ -40,17 +40,9 @@ Senior software automation engineer and full-stack web developer, with a decade 
 - **REGENT UNIVERSITY** *VIRGINIA BEACH, VA*\
   Graduated with B.S. Information Systems
   
-### WORK
-- Engineered job processing system and web portal for processing sales team orders
-- Created UI component library for use with Vue and Pico CSS
-- Created PHP routing library for use in web apps and API's
-- Created small, zero-dependency, flat-file PHP CMS
-- Developed market access user/role management app for sales team
-- Automated file transfers and processing for digital and mail-in money transactions
-- Created data hygiene scripts and utilities for interactive data processing
-- Implemented API integrations between Jira Cloud and on-prem systems monitoring services
-- Self-hosted Reddit & Twitter clones
+### DEV WORK
+- UI component library for use with Vue and Pico CSS
+- Fast PHP routing library for use in web apps and API's
+- Small, zero-dependency, flat-file PHP CMS 
 - Simple book-keeping software for self-employed contractors
-- Audio file compression web portal, leveraging ffmpeg
 - Math-oriented Jeopardy game using LaTeX parsing
-- Change calendar integration for Jira Service Management
