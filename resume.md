@@ -1,5 +1,5 @@
 # JEREMY MOORMANN
-## Senior Software Engineer & Web Developer
+## SW Architect / Engineer / Developer
 Email: [moormann.jeremy.tech@gmail.com](mailto:moormann.jeremy.tech@gmail.com) | Cell: (757) 418-2956
 
 ### QUALIFICATIONS
